@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+* Fix load spinner
+
 ### Breaking/large changes
 
 * Break out Publify functionality into several engines. These engines will
@@ -404,4 +406,3 @@ platform][4].
 [2]: http://t37.net/is-coding-a-blogging-engine-still-worth-the-effort-in-2013-and-other-thoughts-about-content-publishing-tools.html
 [3]: https://github.com/publify/typographic
 [4]: http://demo.publify.co/
-
