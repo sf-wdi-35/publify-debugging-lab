@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+* Style sidebar consistently
+
 ### Breaking/large changes
 
 * Break out Publify functionality into several engines. These engines will
